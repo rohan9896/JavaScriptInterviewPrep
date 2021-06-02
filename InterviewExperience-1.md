@@ -1,4 +1,5 @@
  # Company name - Project-tinker #
+ ## Role - React Developer ##
  # Round-1: #
 20 min dicusssion with founder and a take home project(1 week time).
 
@@ -60,5 +61,7 @@ Q6. Explain HTTP? (he asked me this bcoz i have written a blog on this)
 Q7. Discussion on all three projects.(E-Comm, video library, component library)
 
 Q8. What is CSR and SSR?
+
+Q9. How does useEffect Hook works? Is it synchronous or asynchronous?
 
 ### Final Verdict - REJECTED ###
