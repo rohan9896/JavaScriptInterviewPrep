@@ -60,4 +60,4 @@ Q7. Discussion on all three projects.(E-Comm, video library, component library)
 
 Q8. What is CSR and SSR?
 
-### Final Verdict ### - REJECTED
+### Final Verdict - REJECTED ###
