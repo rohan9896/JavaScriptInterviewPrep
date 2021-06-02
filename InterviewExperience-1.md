@@ -1,3 +1,4 @@
+ # Company name - Project-tinker #
  # Round-1: #
 20 min dicusssion with founder and a take home project(1 week time).
 
