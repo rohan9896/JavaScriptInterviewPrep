@@ -47,7 +47,7 @@ Q2A. As I am able to see in the networks tab, you are calling all 100 peoducts i
 
 Q2B.(Follow up) Explain how pagination works?
 
-Q3. You have mentioned Data Structures and algorithms in your resume! Are you comfortable in solving on question?
+Q3. You have mentioned Data Structures and algorithms in your resume! Are you comfortable in solving one question?
 --> Then asks me to code median of two sorted array problem in a google doc.
 
 Q4. How does Event Loop works?
