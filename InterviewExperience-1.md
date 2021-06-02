@@ -1,5 +1,6 @@
  # Company name - Project-tinker #
  ## Role - React Developer ##
+ ## CTC - 5-8LPA ##
  # Round-1: #
 20 min dicusssion with founder and a take home project(1 week time).
 
