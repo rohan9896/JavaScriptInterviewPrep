@@ -65,4 +65,9 @@ Q8. What is CSR and SSR?
 
 Q9. How does useEffect Hook works? Is it synchronous or asynchronous?
 
+Q10A. Why do we store private keys in environment variables? 
+--> I said coz we dont push the env files on github.
+
+Q10B. (Follow up) What if the github repo is private, and only you can see that?
+
 ### Final Verdict - REJECTED ###
