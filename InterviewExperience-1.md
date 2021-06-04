@@ -6,7 +6,7 @@
 
 Assignment:
 
-Problem Statement
+Problem Statement:
 Design a Library System to be used by a Librarian to maintain information regarding Authors and their Books.
 
 ## Specifics ##
